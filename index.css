@@ -43,6 +43,7 @@ img{
   height: 95%;
   border: 15px solid #3e2b14;
   padding: 10px;
+  margin-left: 40px;
 }
 
 /*=============================================================================*/
@@ -154,7 +155,13 @@ h1{
 }
 .name {
   padding-top: 200px;
+  color: brown;
 }
 p{
   padding-top: 30px;
+}
+}
+.linkin-icon{
+  width: 150px;
+  height: 150px;
 }
